@@ -1,0 +1,103 @@
+body{
+    background-color: #1F1F1F;
+   
+}
+nav{
+    text-align: center;
+    background-color:#A160A0;
+    height: 10vh;
+    width: 98.8vw;
+ 
+     border-radius: 10px 100px / 120px;
+    
+}
+
+nav>h4{
+    float: right;
+    margin-right: 9px;
+}
+nav>h1{
+    float: left;
+    margin-left: 12px;
+}
+#mid{
+    color: rgb(168, 165, 165);
+
+}
+#mid>h2{
+    text-align: center;
+}
+.dish1{
+    /* display: inline-block; */
+    text-align: left;
+    
+}
+.dish1>img{
+    margin-right: 100px;
+    float: right;
+    width: 280px;
+    height: 260px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px grey;
+}
+.dish2{
+    /* display: inline-block; */
+    text-align: left;
+
+}
+.dish2>img{
+    margin-right: 100px;
+    float: right;
+   width: 280px;
+    height: 260px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px grey;
+}
+.dish3{
+    /* display: inline-block; */
+    text-align: left;
+    
+}
+.dish3>img{
+    margin-right: 100px;
+    float: right;
+   width: 280px;
+    height: 260px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px grey;
+}
+.dish4{
+    /* display: inline-block; */
+    text-align: left;
+    
+}
+.dish4>img{
+    margin-right: 100px;
+    float: right;
+   width: 280px;
+    height: 260px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px grey;
+    padding-bottom: 10px;
+    margin-bottom:10px;
+}
+#footer{
+    background-color: grey;
+    color: #1F1F1F;
+    height: 10vh;
+    width: 98.8vw;
+    margin-bottom: 2px;
+    
+}
+#footer p:hover {
+     /* padding-top: 5px; */
+    text-decoration: underline;
+}
+#footer p{
+    padding-top: 5px;
+    padding left: 5px;
+}
+
+
+
+
